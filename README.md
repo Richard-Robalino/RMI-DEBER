@@ -16,7 +16,6 @@ ACTUALIZAR
 CONSULTAR
 
 ![image](https://github.com/user-attachments/assets/ad47875e-cbe0-4dd7-b188-04100ff2f855)
-![image](https://github.com/user-attachments/assets/d6812955-9e8f-461f-8010-9c12118b9e79)
 
 ELIMINAR
 
