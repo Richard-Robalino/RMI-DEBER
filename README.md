@@ -10,6 +10,7 @@ INSERTAR
 
 ACTUALIZAR
 
+![image](https://github.com/user-attachments/assets/ad47875e-cbe0-4dd7-b188-04100ff2f855)
 ![image](https://github.com/user-attachments/assets/2834a033-fd4d-4279-aa41-4cc541852519)
 
 CONSULTAR
